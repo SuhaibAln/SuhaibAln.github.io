@@ -1,0 +1,118 @@
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\FinalProjectWebDesign-restaurant.dll.config
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\FinalProjectWebDesign-restaurant.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\FinalProjectWebDesign-restaurant.pdb
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\csc.exe
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\csc.exe.config
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\csc.rsp
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\csi.exe
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\csi.exe.config
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\csi.rsp
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.AppContext.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Console.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.IO.Compression.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Net.Http.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.ValueTuple.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\vbc.exe
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\vbc.exe.config
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\vbc.rsp
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\VBCSCompiler.exe
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\obj\Debug\FinalProjectWebDesign-restaurant.csproj.AssemblyReference.cache
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\obj\Debug\FinalProjectWebDesign-restaurant.csproj.CoreCompileInputs.cache
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\obj\Debug\FinalProjectWebDesign-restaurant.csproj.CopyComplete
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\obj\Debug\FinalProjectWebDesign-restaurant.dll
+C:\Users\ECC\Desktop\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\obj\Debug\FinalProjectWebDesign-restaurant.pdb
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\FinalProjectWebDesign-restaurant.dll.config
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\FinalProjectWebDesign-restaurant.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\FinalProjectWebDesign-restaurant.pdb
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\csc.exe
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\csc.exe.config
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\csc.rsp
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\csi.exe
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\csi.exe.config
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\csi.rsp
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.Managed.Core.targets
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.AppContext.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Collections.Immutable.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Console.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Globalization.Calendars.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.IO.Compression.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.IO.FileSystem.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Net.Http.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Net.Sockets.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Reflection.Metadata.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.ValueTuple.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Xml.XmlDocument.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Xml.XPath.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\vbc.exe
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\vbc.exe.config
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\vbc.rsp
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\VBCSCompiler.exe
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\roslyn\VBCSCompiler.exe.config
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\obj\Debug\FinalProjectWebDesign-restaurant.csproj.AssemblyReference.cache
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\obj\Debug\FinalProjectWebDesign-restaurant.csproj.CoreCompileInputs.cache
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\obj\Debug\FinalProjectWebDesign-restaurant.csproj.CopyComplete
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\obj\Debug\FinalProjectWebDesign-restaurant.dll
+G:\internet Explorer\tahalf\3-HTML & CSS\Assigments\Final-Task\FinalProjectWebDesign-restaurant\FinalProjectWebDesign-restaurant\obj\Debug\FinalProjectWebDesign-restaurant.pdb

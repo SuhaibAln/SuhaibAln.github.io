@@ -1,0 +1,261 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="StyleSheet1.css" rel="stylesheet" />
+    <link href="bootstrap-4.6.1-dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    <title></title>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top">
+            <a href="Home.html" class="navbar-brand">tahaluf restaurant</a>
+            <button class="navbar-toggler" data-toggle="collapse" data-target="#HamburgerMenu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="HamburgerMenu">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a href="Menu.html" class="nav-link">Menu</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="Contact.html" class="nav-link">Contact</a>
+                    </li>
+                    <!--<li class="nav-item">
+                    <img src="https://img.icons8.com/material-outlined/10/000000/shopping-bag--v2.gif" />
+                </li>-->
+                </ul>
+            </div>
+        </nav>
+
+        <div id="carouselExampleCaptions" class="carousel  slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+                <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="Image/pexels-photo-2923034.jpeg" class="d-block w-100" alt="First Slide">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5 class="progress-bar-animated bounceInRight" style="animation-delay:1s">WE Offer Varity of Food</h5>
+                        <p class="animated bounceInLeft" style="animation-delay:2s">We made our best creating the resturant menu</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="Image/pexels-photo-1267320.jpeg" class="d-block w-100" alt="Second Slide">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5 class="animated slideInDown" style="animation-delay:1s;">We value you</h5>
+                        <p class="animated fadeInUp" style="animation-delay:2s">Our menu is fresh dirctly from our farms</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="Image/pexels-photo-461428.jpeg" class="d-block w-100" alt="third Slide">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5 class="animated ZoomIn" style="animation-delay:1s">You can order Online</h5>
+                        <p class="animated fadeInLeft" style="animation-delay:2s">fast delivry system</p>
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-target="#carouselExampleCaptions" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-target="#carouselExampleCaptions" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </button>
+        </div>
+
+    </header>
+    <main>
+
+        <section id="Mini-Menu">
+            <div class="container">
+                <div class="title text-center">
+                    <h4>Resturant Menu</h4>
+                    <h4>Most popular Meals</h4>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="card text-center">
+                            <img id="myImage" src="Image/Shawaarma.jpeg" class="card-img-top" />
+                            <div class="card-body">
+                                <h5 class="card-title">Shawama Super</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <div class="cost mt-3 text-dark">
+                                    <span onmouseover="resize(this, '125%')" onmouseout="resize(this, '100%')">$1.20</span>
+                                    <div class="star mt-3 align-items-center ">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                </div>
+                                <button class="css-button-3d--sand">Add Item</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card text-center">
+                            <img src="Image/Wings.jpeg" class="card-img-top" />
+                            <div class="card-body">
+                                <h5 class="card-title">wings</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <div class="cost mt-3 text-dark">
+                                    <span onmouseover="resize(this, '125%')" onmouseout="resize(this, '100%')">$1.20</span>
+                                    <div class="star mt-3 align-items-center ">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                </div>
+                                <button class="css-button-3d--sand">Add Item</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card text-center">
+                            <img src="Image/Shawaarma.jpeg" class="card-img-top" />
+                            <div class="card-body">
+                                <h5 class="card-title">Shawama Super</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <div class="cost mt-3 text-dark">
+                                    <span onmouseover="resize(this, '125%')" onmouseout="resize(this, '100%')">$1.20</span>
+                                    <div class="star mt-3 align-items-center ">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                </div>
+                                <button class="css-button-3d--sand">Add Item</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="title text-center">
+
+                    <h4>Chicken Section</h4>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="card text-center">
+                            <img id="im" src="Image/Wings.jpeg" class="card-img-top" />
+                            <div class="card-body">
+                                <h5 class="card-title">wings</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <div class="cost mt-3 text-dark">
+                                    <span onmouseover="resize(this, '125%')" onmouseout="resize(this, '100%')">$1.20</span>
+                                    <div class="star mt-3 align-items-center ">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                </div>
+                                <button class="css-button-3d--sand">Add Item</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card text-center">
+                            <img src="Image/download.jpg" class="card-img-top" />
+                            <div class="card-body">
+                                <h5 class="card-title">brosted</h5>
+                                <p class="card-text">u can have fries normal or curly</p>
+                                <div class="cost mt-3 text-dark">
+                                    <span onmouseover="resize(this, '125%')" onmouseout="resize(this, '100%')">$1.20</span>
+                                    <div class="star mt-3 align-items-center ">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                </div>
+                                <button class="css-button-3d--sand">Add Item</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card text-center">
+                            <img src="Image/pexels-photo-6210876.jpeg" class="card-img-top" />
+                            <div class="card-body">
+                                <h5 class="card-title">roast chicken</h5>
+                                <p class="card-text">we offfer with it rice or fries.</p>
+                                <div class="cost mt-3 text-dark">
+                                    <span onmouseover="resize(this, '125%')" onmouseout="resize(this, '100%')">$1.20</span>
+                                    <div class="star mt-3 align-items-center ">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                </div>
+                                <button class="css-button-3d--sand">Add Item</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            
+
+
+
+        </section>
+
+    </main>
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+
+                <div class="footer-col">
+                    <h4>company</h4>
+                    <ul>
+                        <li><a href="Home.html">home</a></li>
+                        <li><a href="Contact.html">Contact Us</a></li>
+                        <li><a href="#">about Us</a></li>
+                        <li><a href="#">our Services</a></li>
+                        <li><a href="#">privacy policy</a></li>
+
+                    </ul>
+                </div>
+
+                <div class="footer-col">
+                    <h4>get Help</h4>
+                    <ul>
+                        <li><a href="#">fAQ</a></li>
+                        <li><a href="#">order Status</a></li>
+                        <li><a href="#">payment Options</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-col">
+                    <h4>follow Us</h4>
+                    <div class="Social-Links">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="JavaScript.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2" crossorigin="anonymous"></script>
+</body>
+</html>
